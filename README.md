@@ -85,6 +85,7 @@ To add your own scheme, submit a pull request to https://github.com/chriskempson
 * [Cupertino](https://github.com/Defman21/base16-cupertino) maintained by [Defman21](https://github.com/Defman21)
 * [Default](https://github.com/chriskempson/base16-default-scheme) maintained by [chriskempson](https://github.com/chriskempson)
 * [Dracula](https://github.com/dracula/base16-dracula-scheme) maintained by [mikebarkmin](https://github.com/mikebarkmin)
+* [Darcula](https://github.com/PlusMinus0/base16-darcula-scheme) maintained by [PlusMinus0](https://github.com/PlusMinus0)
 * [Espresso](https://github.com/alexmirrington/base16-espresso-scheme) maintained by [alexmirrington](https://github.com/alexmirrington)
 * [Framer](https://github.com/jssee/base16-framer-scheme) maintained by [jssee](https://github.com/jssee)
 * [Fruit Soda](https://github.com/jozip/base16-fruit-soda-scheme) maintained by [jozip](https://github.com/jozip)
